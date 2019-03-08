@@ -1,0 +1,10 @@
+C:\Users\mgunes\source\repos\Game2048\Game2048\bin\Release\Game2048.exe.config
+C:\Users\mgunes\source\repos\Game2048\Game2048\bin\Release\Game2048.exe
+C:\Users\mgunes\source\repos\Game2048\Game2048\bin\Release\Game2048.pdb
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.csprojAssemblyReference.cache
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.Form1.resources
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.Properties.Resources.resources
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.csproj.GenerateResource.cache
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.exe
+C:\Users\mgunes\source\repos\Game2048\Game2048\obj\Release\Game2048.pdb
